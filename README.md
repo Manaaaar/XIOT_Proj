@@ -6,6 +6,8 @@ using Atmega16
 switch is connected to pin 0  in PORTB using Pull Down configuration
 Led is connected to pin 0 in PORTC using Positive Logic configuration
 
+about my knowledge 
+I know about AVR and PIC Micro conrollers and c language 
 
 //code
 
